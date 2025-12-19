@@ -1,0 +1,12 @@
+# SAM2 Video Flow Tracking - Requirements
+# Python 3.11 recommended
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+
+# SAM2 is installed from the segment-anything-2 submodule
+# See installation instructions in README.md

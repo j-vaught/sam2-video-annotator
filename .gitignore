@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Project-specific
+frames/
+output/
+*.log
+*.mp4
+!examples/*.mp4
+
+# Model checkpoints (large files)
+checkpoints/*.pt
+checkpoints/*.pth
+
+# Temporary files
+*.tmp
+*.bak
