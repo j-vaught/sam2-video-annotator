@@ -382,7 +382,7 @@ class VideoAnnotationTool:
 
 def main():
     # Configuration
-    video_path = "input_2.mp4"
+    video_path = "input_4.mp4"
     start_frame = 5
     checkpoint_path = "checkpoints/sam2.1_hiera_large.pt"
     model_cfg = "configs/sam2.1/sam2.1_hiera_l.yaml"
