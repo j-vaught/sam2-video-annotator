@@ -21,17 +21,16 @@ env/
 *.swo
 .DS_Store
 
-# Project-specific
+# Generated files
 frames/
 output/
-*.log
-*.mp4
-!examples/*.mp4
+annotated_video*.mp4
 
-# Model checkpoints (large files)
+# Model checkpoints (large files - download separately)
 checkpoints/*.pt
 checkpoints/*.pth
 
-# Temporary files
+# Logs
+*.log
 *.tmp
 *.bak
