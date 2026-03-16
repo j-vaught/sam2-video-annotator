@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.11
+#!/usr/bin/env python3
 """
 Interactive Video Annotation with SAM2 - UNION MODE
 Masks can only grow (union with previous frame) - perfect for fluid flow tracking

@@ -5,8 +5,8 @@ Interactive video annotation using Meta's Segment Anything 2 (SAM2). Uses union 
 ## Setup
 
 ```bash
-# Create virtual environment (requires Python 3.13 with tkinter)
-/opt/homebrew/bin/python3.13 -m venv venv
+# Create virtual environment (requires Python 3.11+ with tkinter)
+python3 -m venv venv
 source venv/bin/activate
 
 # Install dependencies

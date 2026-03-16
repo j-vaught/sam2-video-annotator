@@ -1,5 +1,5 @@
 # SAM2 Video Flow Tracking - Requirements
-# Python 3.11 recommended
+# Python 3.11+ recommended
 
 # Core dependencies
 torch>=2.0.0
