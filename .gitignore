@@ -34,3 +34,6 @@ checkpoints/*.pth
 *.log
 *.tmp
 *.bak
+
+# Apple double files
+._*
